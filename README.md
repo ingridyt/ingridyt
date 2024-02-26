@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ingridy.
-- 🌱 I’m currently learning python :)
+- 🌱 I’m currently learning python, html, css :)
   
 
 <!---
