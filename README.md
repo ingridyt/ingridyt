@@ -1,7 +1,7 @@
 - 👋 Hi there! I'm Ingridy, a psychologist and technology enthusiast. 
 - 🌱 I’m currently learning python, html, css and Java :)
 - I love exploring new tech and bringing ideas to life. When I'm not coding, you can find me reading or enjoying a good book.📚  
-- In my free time, I also enjoy gazing through my telescope, marveling at the vastness of the universe. 🌌 And yes, 👽 aliens intrigue me too! 
+- In my free time, I also enjoy gazing through my telescope, marveling at the vastness of the universe. 🌌 
             
   
 
